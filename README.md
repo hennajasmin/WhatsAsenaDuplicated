@@ -95,9 +95,9 @@ the user is responsible.
 ![Docker Pulls](https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square)
 
 ## 📢 Guide
-> [Also for support & help please come our Telegram group.](https://t.me/AsenaSupport) (Legacy)
+> [Also for support & help please come our Telegram group.](https://t.me/musi_c_world) (Legacy)
 
-> [New support & help group.](https://t.me/asenaremaster) (New)
+> [New support & help group.](https://t.me/musi_c_world) (New)
 
 > [Install Guide/Kurulum Yardımcısı/Qurulum Müavin](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki)
 
